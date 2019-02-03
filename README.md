@@ -1,6 +1,6 @@
-# xj
+# mpvue-detective-game
 
-> A Mpvue project
+> A detective game written using mpvue
 
 ## Build Setup
 
